@@ -1,0 +1,14 @@
+C:\Users\fic\source\repos\Senatur_Manha\Senatur_Manha\bin\Debug\netcoreapp2.1\Senatur_Manha.deps.json
+C:\Users\fic\source\repos\Senatur_Manha\Senatur_Manha\bin\Debug\netcoreapp2.1\Senatur_Manha.runtimeconfig.json
+C:\Users\fic\source\repos\Senatur_Manha\Senatur_Manha\bin\Debug\netcoreapp2.1\Senatur_Manha.runtimeconfig.dev.json
+C:\Users\fic\source\repos\Senatur_Manha\Senatur_Manha\bin\Debug\netcoreapp2.1\Senatur_Manha.dll
+C:\Users\fic\source\repos\Senatur_Manha\Senatur_Manha\obj\Debug\netcoreapp2.1\Senatur_Manha.csprojAssemblyReference.cache
+C:\Users\fic\source\repos\Senatur_Manha\Senatur_Manha\obj\Debug\netcoreapp2.1\Senatur_Manha.csproj.CoreCompileInputs.cache
+C:\Users\fic\source\repos\Senatur_Manha\Senatur_Manha\obj\Debug\netcoreapp2.1\Senatur_Manha.RazorAssemblyInfo.cache
+C:\Users\fic\source\repos\Senatur_Manha\Senatur_Manha\obj\Debug\netcoreapp2.1\Senatur_Manha.RazorAssemblyInfo.cs
+C:\Users\fic\source\repos\Senatur_Manha\Senatur_Manha\obj\Debug\netcoreapp2.1\Senatur_Manha.AssemblyInfoInputs.cache
+C:\Users\fic\source\repos\Senatur_Manha\Senatur_Manha\obj\Debug\netcoreapp2.1\Senatur_Manha.AssemblyInfo.cs
+C:\Users\fic\source\repos\Senatur_Manha\Senatur_Manha\obj\Debug\netcoreapp2.1\Senatur_Manha.RazorTargetAssemblyInfo.cache
+C:\Users\fic\source\repos\Senatur_Manha\Senatur_Manha\bin\Debug\netcoreapp2.1\Senatur_Manha.pdb
+C:\Users\fic\source\repos\Senatur_Manha\Senatur_Manha\obj\Debug\netcoreapp2.1\Senatur_Manha.dll
+C:\Users\fic\source\repos\Senatur_Manha\Senatur_Manha\obj\Debug\netcoreapp2.1\Senatur_Manha.pdb
